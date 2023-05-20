@@ -1,0 +1,1 @@
+Jedina promena u projektu je bila veza izmedju entiteta internet i placanje sa 1 prema N na 1 prema 1. I JMBG je sada string a ne vise broj. 
