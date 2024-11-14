@@ -1,2 +1,2 @@
 # Sistemi-Baza
-Drugi deo projekta iz sistema baza podataka
+OracleSQL with Entity Framework for WinForms application.
